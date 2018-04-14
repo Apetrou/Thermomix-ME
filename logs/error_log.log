@@ -1,0 +1,14 @@
+18/06/2017 12:25:25 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:25:29 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:25:33 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:25:50 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:26:46 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:28:04 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:29:24 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:29:28 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:29:42 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 12:29:44 | getPersons | PWasilewska | SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+18/06/2017 20:15:13 | insertUpdateActivity | apetrou | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thermomix.invoice_number' doesn't exist
+18/06/2017 20:15:36 | insertUpdateActivity | apetrou | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thermomix.invoice_number' doesn't exist
+18/06/2017 20:17:29 | insertUpdateActivity | apetrou | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+18/06/2017 20:36:31 | insertUpdateActivity | apetrou | SQLSTATE[HY000]: General error: 1093 Table 'invoice_numbers' is specified twice, both as a target for 'INSERT' and as a separate source for data
